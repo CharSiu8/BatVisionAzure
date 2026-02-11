@@ -7,6 +7,8 @@ AI-powered image classifier that identifies Batman actors (Affleck, Bale, Pattin
 
 ## LIVE DEMO
 
+http://batvision.a4dyasbea5bxc7gd.canadaeast.azurecontainer.io:8000/
+
 ## See also the same application deployed on Hugging Face:
 https://huggingface.co/spaces/CharSiu8/BatVision
 
