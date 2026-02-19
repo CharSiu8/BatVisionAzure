@@ -1,5 +1,5 @@
 # BatVisionAzure
-BatVision Deployed on Azure
+BatVision Deployed on Azure/Foundry Ecosystem
 
 # BatVision
 
@@ -7,7 +7,7 @@ AI-powered image classifier that identifies Batman actors (Affleck, Bale, Pattin
 
 ## LIVE DEMO
 
-http://batvision.a4dyasbea5bxc7gd.canadaeast.azurecontainer.io:8000/
+ https://batvisioncontainerdeployment.whitemushroom-7c468829.canadaeast.azurecontainerapps.io/
 
 *Please note that the Azure version is off between 7pm-9am ET to save 58% in monthly costs.*
 
