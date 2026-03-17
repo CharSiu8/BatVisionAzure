@@ -1,6 +1,7 @@
 # BatVisionAzure
 BatVision Deployed on Azure/Foundry Ecosystem
 
+BATVISIONAZURE VERSION CURRENTLY NOT RUNNING: SEE DEMO ON HUGGING FACE : https://huggingface.co/spaces/CharSiu8/BatVision
 # BatVision
 
 AI-powered image classifier that identifies Batman actors (Affleck, Bale, Pattinson) and distinguishes from similar masked characters (Nite Owl, Darkwing). Built with Azure cloud services.
